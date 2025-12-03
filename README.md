@@ -80,7 +80,8 @@ Adding Liberty Files (slow.lib, fast.lib) under “Library Sets
 ### Fig.2 Add fast Library set
 
 • Adding RC Corners can also be done in a similar process. The temperature value can be found under the corresponding liberty file. Also, cap table and RC Tech files can be added from Foundry where available.
-<img width="1918" height="1076" alt="Screenshot 2025-11-03 093131" src="https://github.com/user-attachments/assets/11e024ce-a29e-4bae-8e74-2ae77b5a10b1" />
+<img width="1262" height="651" alt="image" src="https://github.com/user-attachments/assets/4a79a119-2758-4e2c-9b4b-e5872a07e841" />
+
 
 ### Fig.3 Add RC corner
 
